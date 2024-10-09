@@ -1,0 +1,7 @@
+{
+    "name": "Anaconda (Python 3)",
+	  "build": { 
+		    "context": "..",
+		    "dockerfile": "Dockerfile",
+	  }
+}
